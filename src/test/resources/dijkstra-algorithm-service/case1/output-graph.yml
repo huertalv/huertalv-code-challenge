@@ -1,0 +1,21 @@
+nodes:
+  - name: DUB
+    distance: 0
+  - name: LHR
+    distance: 1
+  - name: CDG
+    distance: 2
+  - name: ORD
+    distance: 6
+  - name: NYC
+    distance: 6
+  - name: BOS
+    distance: 4
+  - name: BBK
+    distance: 10
+  - name: LAS
+    distance: 8
+  - name: LAX
+    distance: 12
+  - name: SYD
+    distance: 21

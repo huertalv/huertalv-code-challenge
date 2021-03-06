@@ -1,0 +1,10 @@
+nodes:
+  - name: LAX
+    distance: 12
+    shortestPath:
+      - name: DUB
+        distance: 0
+      - name: CDG
+        distance: 2
+      - name: BOS
+        distance: 8

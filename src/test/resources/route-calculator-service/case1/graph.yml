@@ -1,0 +1,10 @@
+nodes:
+  - name: SYD
+    distance: 21
+    shortestPath:
+      - name: DUB
+        distance: 0
+      - name: LHR
+        distance: 1
+      - name: BKK
+        distance: 10
