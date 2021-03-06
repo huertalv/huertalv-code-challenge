@@ -1,0 +1,43 @@
+routes:
+  - origin: DUB
+    destination: LHR
+    duration: 1
+  - origin: DUB
+    destination: CDG
+    duration: 2
+  - origin: CDG
+    destination: BOS
+    duration: 6
+  - origin: CDG
+    destination: BKK
+    duration: 9
+  - origin: ORD
+    destination: LAS
+    duration: 2
+  - origin: LHR
+    destination: NYC
+    duration: 5
+  - origin: NYC
+    destination: LAS
+    duration: 3
+  - origin: BOS
+    destination: LAX
+    duration: 4
+  - origin: LHR
+    destination: BKK
+    duration: 9
+  - origin: BKK
+    destination: SYD
+    duration: 11
+  - origin: LAX
+    destination: LAS
+    duration: 2
+  - origin: DUB
+    destination: ORD
+    duration: 6
+  - origin: LAX
+    destination: SYD
+    duration: 13
+  - origin: LAS
+    destination: SYD
+    duration: 14
