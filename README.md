@@ -1,6 +1,6 @@
 # CODE CHALLENGE APPLICATION
 ### DESCRIPTION
-The program consist on, given a table of Departure and Arrival airports, calculate the shortest route that a airplane must take.
+The program consists on, given a table of Departure and Arrival airports, calculate the shortest route that an airplane must take.
 This is a shortest path problem (SPP) and in this case I'm implementing Dijkstra algorithm to solve it.
 
 I'm using Spring Framework and CommandLineRunner interface to let you use the command line and also take advantage of Spring.
@@ -38,5 +38,5 @@ DijkstraAlgorithmService will apply SPP algorithm for the given Graph and Source
 ![](doc/eclipse-run-step1.png)
  * Select your project and Main class *com.example.ConsoleApplication*
 ![](doc/eclipse-run-step2.png)
- * On the arguments tab you can insert the input you want to execute
- * Once you have set all the variables mentioned before press Run button to execute the application
+ * On Arguments tab you can insert the input you want to execute
+ * Once you have set all the variables mentioned before pressing Run button to execute the application
